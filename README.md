@@ -31,11 +31,9 @@ Flickr30k Dataset has been used for the training of model.
  
  Vaibhav Kale : vaibhavkale0904@gmail.com
 
- Yash Tarte : yashtarte5@gmail.com
+ Yash Tarte : yash.tarte.ai@gmail.com
 
- Vicky Jagdale : vickygadale678@gmail.com
 
- Tanmay Gorkar : Tanmay.gorkar.ai@ghrecm.raisoni.net
 
 
 
